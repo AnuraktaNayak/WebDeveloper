@@ -1,0 +1,30 @@
+#theSignin{
+background-color:grey;
+border=2px solid;
+color=Black;
+display:table;
+padding:15px;
+text-align:center;
+
+
+}
+.row {
+display:table-row;
+}
+
+.row label{
+
+display:table-cell;
+}
+ .row label input{
+display:table-cell;
+}
+#submit{
+display:table-cell;
+padding:10px;
+}
+.linkk{
+color:black;
+}
+.linkkk{
+color:black;}
